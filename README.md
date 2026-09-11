@@ -1,4 +1,4 @@
-# my first practice repo
+# This is my first GitHub project, learning as I go.
 
-repository for practice
+
 
